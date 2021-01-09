@@ -9,3 +9,8 @@ test stash
 dsadadsa 
 222222
 update on dev
+
+
+
+
+1. fix bug in 1.0 branch
